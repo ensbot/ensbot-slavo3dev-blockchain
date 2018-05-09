@@ -13,3 +13,7 @@
 #### Assets are more diverse and important in a business network.
 
 #### Business networks prioritize identity over anonymity.
+
+## Core requirement for a business blockchain
+
+#### Shared ledger, smart contract, privacy and trust
