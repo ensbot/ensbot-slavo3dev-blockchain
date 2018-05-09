@@ -17,3 +17,27 @@
 ## Core requirement for a business blockchain
 
 #### Shared ledger, smart contract, privacy and trust
+
+## Ledger descriotion
+
+#### The system of record for a business
+
+## In a cryptocurrency network like Bitcoin, you can decide who gets to validates a transaction. // False
+
+## Selected members of a business network validate that a specific transaction occurs, which leads to trust. // True
+
+## In a blockchain business network, every participant has a separate copy of the ledger and updates it for their transactions. // False
+
+# Apply blockchain to business
+
+# Blockchain for business has several advantages:
+
+# Saves time
+
+# Reduces cost
+
+# Reduces risk
+
+# Increases trust
+
+#### For example, for financial services network, a business network that runs on a blockchain can speed up transaction processes and audits. That in turn reduces costs and can lead to greater customer satisfaction. A business that runs a supply chain network can benefit from blockchain by reducing errors in shipments, have better tracking or materials, and reduce the risk of illicit tampering of records.
