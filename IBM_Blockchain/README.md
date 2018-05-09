@@ -41,3 +41,5 @@
 # Increases trust
 
 #### For example, for financial services network, a business network that runs on a blockchain can speed up transaction processes and audits. That in turn reduces costs and can lead to greater customer satisfaction. A business that runs a supply chain network can benefit from blockchain by reducing errors in shipments, have better tracking or materials, and reduce the risk of illicit tampering of records.
+
+# The primary benefit of immutability is Tamper-proof.
