@@ -57,3 +57,13 @@
 ## Regulator role in a blockchain network can typically see every transaction
 
 ## Data about the assets in a network is typically in JSON format
+
+## Hyperleger Composer - Benefits:
+
+#### Increses Understanding
+
+#### Save Time
+
+#### Reduce Risk
+
+#### Increses Flexibility
