@@ -45,3 +45,11 @@
 # The primary benefit of immutability is Tamper-proof.
 
 # Hyperledger Composer helps you accelerate time to value because you no longer need render smart contracts in chaincode
+
+# Transactions in a business blockchain
+
+### Transactions are endorsed by a subset of business network participants
+
+### They cannot be modified
+
+### They are added to the ledger with appropriate confidentiality.
