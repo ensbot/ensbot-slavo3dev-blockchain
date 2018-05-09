@@ -53,3 +53,7 @@
 ### They cannot be modified
 
 ### They are added to the ledger with appropriate confidentiality.
+
+## Regulator role in a blockchain network can typically see every transaction
+
+## Data about the assets in a network is typically in JSON format
