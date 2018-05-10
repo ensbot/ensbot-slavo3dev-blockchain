@@ -67,3 +67,7 @@
 #### Reduce Risk
 
 #### Increses Flexibility
+
+### The genesis block is the block that holds the smart contract.
+
+### The only way to access the blockchain APIs is to use a software developer kit (SDK).
