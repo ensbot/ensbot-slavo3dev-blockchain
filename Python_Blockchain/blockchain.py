@@ -51,3 +51,18 @@ class Blockchain:
             previous_block = block
             block_index += 1
         return True
+
+# creating web app
+app = Flask(__name__)
+
+#  create a blockcain 
+blockchain = Blockchain()
+
+# mining blockchain
+
+@app.route('/mine_block', methods=['GET'])
+def mine_block():
+    previous_block = blockchain.get_previous_block()
+    previous_block = previous_block['proof']
+    proof = blockchain.proof_of_work(previous_proof)
+    
