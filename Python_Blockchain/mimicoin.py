@@ -127,7 +127,8 @@ def get_chain():
 def is_valid():
     is_valid = blockchain.is_chain_valid(blockchain.chain)
     if is_valid:
-        response = {'message': 'BlockChain is Valid'}
+        response = {'message': 'BlockChain is Valid',
+            'new_chain': blockchain.chain}
     else:
         response = {'message': 'Blockchain is not valid'}
     return jsonify(response), 200
