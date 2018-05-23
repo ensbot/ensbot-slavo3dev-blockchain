@@ -143,5 +143,21 @@ def add_transaction():
         json['sender'], json['reciever'], json['amount'])
     response = {'message': f'This transaction: {index}'}
     return json(response), 201
+
+# Decetralize the internet
+@app.route('/connect_node', method=['POST'])
+def connect_node():
+    json = request.get_json()
+    node = json.get['nodes']
+    if nodes is None:
+        return 'No node', 400
+    for node in nodes:
+        blockchain.add_node(node)
+    response = {'message': 'All The nodes are connected',
+        'total_nodes': list(blockchain.node)}
+
+
+
+
 # Runnung the app
 app.run(host='0.0.0.0', port=5000)
