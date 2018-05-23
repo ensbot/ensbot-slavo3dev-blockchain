@@ -134,6 +134,11 @@ def is_valid():
 
 
 @app.route('/add_transaction', method=['POST'])
+def add_transaction():
+    json = request.get_json()
+    transaction_keys = ['sender', 'reciever', 'amount']
+    if not all(key in json for key in transaction_keys):
+        return 'Some elememts of transaction are missing'
 
 # Runnung the app
 app.run(host='0.0.0.0', port=5000)
