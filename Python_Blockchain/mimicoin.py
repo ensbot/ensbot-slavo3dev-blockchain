@@ -133,5 +133,7 @@ def is_valid():
     return jsonify(response), 200
 
 
+@app.route('/add_transaction', method=['POST'])
+
 # Runnung the app
 app.run(host='0.0.0.0', port=5000)
