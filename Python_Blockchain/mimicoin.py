@@ -76,7 +76,7 @@ class Blockchain:
         longest_chain = None
         max_length = len(self.chain)
         for node in network:
-            response = requests.get('http://{node}/get_chain')
+            response = requests.get(f'http://{node}/get_chain')
 
 
 # creating web app
