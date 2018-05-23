@@ -138,7 +138,10 @@ def add_transaction():
     json = request.get_json()
     transaction_keys = ['sender', 'reciever', 'amount']
     if not all(key in json for key in transaction_keys):
-        return 'Some elememts of transaction are missing'
-
+        return 'Some elememts of transaction are missing', 400
+    index = blockchain.add_transaction(
+        json['sender'], json['reciever'], json['amount'])
+    response = {'message': f'This transaction: {index}'}
+    return json(response), 201
 # Runnung the app
 app.run(host='0.0.0.0', port=5000)
