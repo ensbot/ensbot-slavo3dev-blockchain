@@ -107,11 +107,12 @@ def mine_block():
     previous_block = previous_block['proof']
     proof = blockchain.proof_of_work(previous_proof)
     previous_hash = blockchain.hash(previous_block)
+    blockchain.add_transaction(sender=node_adress, reciever='Slavo' amount=1)
     block = blockchain.create_block(proof, previous_hash)
     response = {'message': 'Congratulations, you just mined a block',
                 'index': block['timestamp'],
                 'proof': block['proof'],
-                'previous_hash': block['previous_hash']}
+                'previous_hash': block['previous_hash'], 'transactions': block['transactions']
     return jsonify(response), 200
 
 # full Blockchain
