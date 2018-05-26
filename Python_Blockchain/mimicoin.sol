@@ -3,7 +3,7 @@ pragma solidity ^0.4.19;
 contract addcoin_ico {
     
     // max of addcoins for sale
-    uint public mimicoin = 1000000;
+    uint public maxMimicoin = 1000000;
     
     // conversion US to addcoins
     uint public usd_to_mimicoin = 1000;
@@ -15,5 +15,11 @@ contract addcoin_ico {
     mapping(address => uint) equity_mimicoin;
     mapping(address => uint) equity_usd;
     
+    // check if an investor can buy Mimicoin 
+    modifier canByMimicoin (uint usdInvested) {
+        require (usdInvested * usd_to_mimicoin + totalMimicoin <= maxMimicoin);
+        _; // meaning if condition its true condition will be applyed
+        
+    }
     
 }
