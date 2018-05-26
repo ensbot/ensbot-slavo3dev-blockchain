@@ -24,8 +24,12 @@ contract addcoin_ico {
 
      // setting the equity in Mimicoin of an investor
     function equityInMimicoin (address investor) external constant returns (uint) {
-        return equity_mimicoin[investor];
-        
+        return equity_mimicoin[investor]; 
+    }
+
+     // equity to usd
+    function equityInUsd (address investor) external constant returns (uint) {
+        return equity_usd[investor]; 
     }
     
 }
