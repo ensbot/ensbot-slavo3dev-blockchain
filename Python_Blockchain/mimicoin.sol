@@ -40,5 +40,12 @@ contract mimicoin_ico {
         equity_usd[investor] = equity_mimicoin[investor] / 1000;
         totalMimicoin += mimnicoin_bought;
     }
+
+     // sales Mimicoin
+    function saleMimicon(address investor, uint mimicoinSold) external {
+        equity_mimicoin[investor] -= mimicoinSold;
+        equity_usd[investor] = equity_mimicoin[investor] / 1000;
+        totalMimicoin -= mimicoinSold;
+    }
     
 }
