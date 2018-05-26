@@ -1,6 +1,6 @@
 pragma solidity ^0.4.19;
 
-contract addcoin_ico {
+contract mimicoin_ico {
     
     // max of addcoins for sale
     uint public maxMimicoin = 1000000;
