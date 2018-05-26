@@ -21,5 +21,11 @@ contract addcoin_ico {
         _; // meaning if condition its true condition will be applyed
         
     }
+
+     // setting the equity in Mimicoin of an investor
+    function equityInMimicoin (address investor) external constant returns (uint) {
+        return equity_mimicoin[investor];
+        
+    }
     
 }
