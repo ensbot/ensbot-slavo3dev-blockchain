@@ -49,3 +49,4 @@ contract mimicoin_ico {
     }
     
 }
+
