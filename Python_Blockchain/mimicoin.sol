@@ -31,5 +31,14 @@ contract mimicoin_ico {
     function equityInUsd (address investor) external constant returns (uint) {
         return equity_usd[investor]; 
     }
+
+     // Buy Mimicoin
+    function buyMimicon(address investor, uint usdInvested) external 
+    canByMimicoin(usdInvested) {
+        uint mimnicoin_bought = usdInvested + usd_to_mimicoin;
+        equity_mimicoin[investor] += mimnicoin_bought;
+        equity_usd[investor] = equity_mimicoin[investor] / 1000;
+        totalMimicoin += mimnicoin_bought;
+    }
     
 }
