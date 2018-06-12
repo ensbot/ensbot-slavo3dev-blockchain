@@ -53,7 +53,11 @@
 <h5>ALL UTXO's in the system are stored by the participant nodes in a database</h5>
 
 <h3>UTXO Structure</h3>
-<ul><li>Unique identifier of the transaction that created the UTXO</li><li>Index of the UTXO in the transaction's output list</li><li>Optinal: conditions under which output can be spent</li></ul>
+<ul>
+<li>Unique identifier of the transaction that created the UTXO</li>
+<li>Index of the UTXO in the transaction's output list</li>
+<li>Optinal: conditions under which output can be spent</li>
+</ul>
 
 <h3>Transactions(TX)</h3>
 <ol>
