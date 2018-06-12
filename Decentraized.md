@@ -1,8 +1,12 @@
 # What is Blockchain?
 
-## Blockchain enables peer to peer transfare of digital assets without any intermediariers.
+### Blockchain enables peer to peer transfare of digital assets without any intermediariers.
 
-## Blockchain by itself has taken a life of it's own and permeated a broad range of applications accross many industries (Finance, Healtcare, goverment, manufacturing, distribution)
+### Establishing Trust among unknow peers
+
+### Recording transactions on immutable distributed ladger
+
+### Blockchain by itself has taken a life of it's own and permeated a broad range of applications accross many industries (Finance, Healtcare, goverment, manufacturing, distribution)
 
 <h4>Examples: </h4>
 <ul>
@@ -17,3 +21,11 @@
  <li>Identity Managment - One ID for all your life's functions</li>
  <li>Goverment Public Records - Open Governing</li>
  </ul>
+
+ <h4>Establishing Trust</h4>
+ <ol>
+ <li>Validtion</li>
+ <li>Verification</li>
+ <li>Consensus</li>
+ <li>Immutabel Recording</li>
+ </ol>
