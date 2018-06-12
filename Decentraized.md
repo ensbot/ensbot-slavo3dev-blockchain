@@ -29,3 +29,24 @@
  <li>Consensus</li>
  <li>Immutabel Recording</li>
  </ol>
+
+# Blockchain Structure
+
+### Transaction is the basic element of the Bitcoin Blockchain
+
+### Transactions are validate and broadcast
+
+### Many Transactions form a BLOCK.
+
+### Many Blocks form a chain through a digital data link
+
+### Blocks go trough a consensus process to select a next block that will be added to the chain
+
+### Choosen Block is varify and add to the current chain
+
+### Validation and consensus process are carried out by the blockchain protocol
+
+<h2>UTXO - Unspent Transaction Output</h2>
+<h4>The set of all UTXO in a bitcoin network collectively defined the state of the Bitcoin Blockchain</h4>
+<h5>UTXO's are referenced as inputs in a transactions</h5>
+<h5></h5>
