@@ -99,3 +99,13 @@
 <p>Transaction confirmations is independently by all miner nodes</p>
 
 <p>If each miner add his/her own block without consensus, this will be result of inconsistent blockchain ledger</p>
+<hr>
+<p><b>Bitcoin</b> supports an optional and special feature called scripts for conditional transfer of values</p>
+<p><b>Ethereum Blockchain</b> extended the scripting feature in to a full-blown code execution framework called "Smart Contract"</p>
+
+<p>3 Types of Blockchain</p>
+<ol>
+<li>Only Cryptopcurrency (example: Bitcoin)</li>
+<li>Currency and Business Logic (example: Ethereum)</li>
+<li>Only Business (example: Linux-Faundation Hyper Leger)</li>
+</ol>
