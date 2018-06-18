@@ -78,3 +78,24 @@
   <li>Broadcasting valid transactions & blocks</li>
   <li>Chaining Blocks</li>
 </ul>
+
+<p.>Two major roles Participiants: </p>
+
+<ol>
+  <li>Participans that initiate Transfer of value</li>
+  <li>Miners
+  <ul>
+  <li>Verify Transactions</li>
+  <li>Broadcast Transactions</li>
+  <li>Compete to create a block</li>
+  <li>Brodcast new block</li>
+  <li>Confirming Transactions</li>
+  </ul>
+  </li>
+</ol>
+
+<h3>The algorithm for consensus is called proof-or-work protocol!! Since it involves work a computational power to solve a puzzel and to claim the right to form the next block</h3>
+
+<p>Transaction confirmations is independently by all miner nodes</p>
+
+<p>If each miner add his/her own block without consensus, this will be result of inconsistent blockchain ledger</p>
