@@ -109,3 +109,12 @@
 <li>Currency and Business Logic (example: Ethereum)</li>
 <li>Only Business (example: Linux-Faundation Hyper Leger)</li>
 </ol>
+
+<h4>Blockchain categories</h4>
+
+<ul>
+<li>Privet</li>
+<li>Public <br> Access Limited to participants within an organization</li>
+<li>Permissioned or Consortium Blockchain <br> It's mean for a consortium of collaborating partes to transact on a blockchain ease of governance, provenance and accountability <br> Example: Consortium of automobile companies or healtcare oraganization</li>
+</ul>
+<p>Premissioned BlockChain has the benefits of a public Blockchain with allowing only user with premission to collaborate and transact</p>
