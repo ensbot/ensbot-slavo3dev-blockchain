@@ -111,7 +111,6 @@
 </ol>
 
 <h4>Blockchain categories</h4>
-
 <ul>
 <li>Privet</li>
 <li>Public <br> Access Limited to participants within an organization</li>
