@@ -21,3 +21,13 @@
 <li>Externally Owned Accounts (EOA) Controlled by the private key</li>
 <li>Contract Accouns (CA) Controlled by the code and can be activated only by EOA</li>
 </ul>
+
+<h3> An EOA is needed ti participate in the Ethereum network. It interacts with blockchain using transactions. </h3>
+<h3> A CO represents the samrt contracts.</h3>
+
+<h3>An account must have sufficient balance to meet fees needed for the transactions activated! </h3>
+<h3>Fees are paid in WEI!</h3>
+<h2>WEI IS A LOWER DENOMINATION OF ETHER</h2>
+
+<h3>1 eth = 10^18 WEI (10 power of 18)</h3>
+<h3>1 WEI = 0.000000000000000001 WEI</h3>
