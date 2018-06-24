@@ -48,3 +48,5 @@
 <li>Transaction</li>
 <li>Runner-up Headers</li>
 </ul>
+
+<h4>The Account (address) can send transactions for ether transfer or it can send transactions to invoke a samrt cotrac code</h4>
