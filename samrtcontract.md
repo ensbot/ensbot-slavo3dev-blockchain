@@ -74,4 +74,9 @@
 <h3><b>GAS SPENT</b> - Actual amount of gas spent to completion of a block creation</h3>
 
 <h3>Mining Incentive Model</h3>
-<p>The proof of work puzzle winner (miner) that creats a new block is incentivized with the base fees of tree Ethers and the transaction fees in Ehtereum blockchain </p>
+<p>The proof of work puzzle winner (miner) that creats a new block is incentivized with the base fees of tree Ethers and the transaction fees in Ehtereum blockchain</p>
+<p>The Winner Miner also gets the fees fees gas points for execution of a smart contract transactions</p>
+
+<p>The miners that solve the puzzle but they didn't win the block are called Ommers</p>
+<p>Ommer blocks are created by ommers</p>
+<p>These are added as Ommer Blocks or side blocks to the main chain. Ommer miners also get a small precentage ot the total gas points as a consolation and for network securuty</p>
