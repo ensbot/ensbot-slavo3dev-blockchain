@@ -35,8 +35,8 @@ Cesar Encryption is the simplest one with alphabets of a message are shifted by 
 
 <h3>Blockchain needs a more efficient and strnger algorithm</h3>
 
-<h1>ELLCIPTIC CURVE CRYPTOGRAPHY, ECC</h1>
+<h1>ELLIPTIC CURVE CRYPTOGRAPHY, ECC</h1>
 
-<h2>ECC family of algorithms is used in a bitcoin as well as an Ethereum blockcahin for generating the key pair</h2>
+<h2>ECC family of algorithms is used in a bitcoin as well as an Ethereum blockchain for generating the key pair</h2>
 <h3>ECC is stronger then RSA for a given number of bits. <br>
 256 bits ECC key pair = 3072 bits RSA key pair</h3>
