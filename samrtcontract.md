@@ -80,3 +80,10 @@
 <p>The miners that solve the puzzle but they didn't win the block are called Ommers</p>
 <p>Ommer blocks are created by ommers</p>
 <p>These are added as Ommer Blocks or side blocks to the main chain. Ommer miners also get a small precentage ot the total gas points as a consolation and for network securuty</p>
+
+<h3>Eth Block Creation</h3>
+<ul>
+<li>Transaction Initiated</li>
+<li>Transaction Validation</li>
+<li>Transaction Bundled and Broadcasted</li>
+<li>Block added to a local chain and propagated to the network</li></ul>
