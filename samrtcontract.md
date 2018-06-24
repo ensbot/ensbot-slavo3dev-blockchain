@@ -67,3 +67,11 @@
 <h5>State of changes by transaction are stored on the Blockchain</h5>
 
 <h5>The Consensus protocol used is a memory-based rather then a CPU-based proof-of-work</h5>
+
+<h2>Incentive Model</h2>
+
+<h3><b>GAS LIMIT</b> - the amount of gas points available for a block to spend</h3>
+<h3><b>GAS SPENT</b> - Actual amount of gas spent to completion of a block creation</h3>
+
+<h3>Mining Incentive Model</h3>
+<p>The proof of work puzzle winner (miner) that creats a new block is incentivized with the base fees of tree Ethers and the transaction fees in Ehtereum blockchain </p>
