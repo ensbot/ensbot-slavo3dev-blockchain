@@ -50,3 +50,18 @@
 </ul>
 
 <h4>The Account (address) can send transactions for ether transfer or it can send transactions to invoke a samrt cotrac code</h4>
+
+<h2>Ethereum Operations</h2>
+<h4>For a simple ether transfer the amount to transfer and the target address are specified along with the fees or gas points</h4>
+<h4>The amount and the fees are transferred to their respective accounts</h4>
+<h4>Ehtereum node is computational system representing a business entity or an individual participant</h4>
+<h5>An Ethereum full node hosts the software for transaction: </h5>
+<ul>
+<li>Initiation</li>
+<li>Validation</li>
+<li>Mining</li>
+<li>Block Creation</li>
+<li>Smart Contract execution on EVM</li>
+</ul>
+
+<h5>State of changes by transaction are stored on the Blockchain</h5>
