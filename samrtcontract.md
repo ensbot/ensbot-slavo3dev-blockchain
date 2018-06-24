@@ -65,3 +65,5 @@
 </ul>
 
 <h5>State of changes by transaction are stored on the Blockchain</h5>
+
+<h5>The Consensus protocol used is a memory-based rather then a CPU-based proof-of-work</h5>
