@@ -38,3 +38,13 @@
 <li>Digital Signature of sender authorizing transfer</li>
 <li>Amount of WEI</l1>
 <li>Messag to a cotract</li>
+<li>StartGas (max # steps) which is a name representing the maximum number of computation steps the transaction allowed</li>
+<li>Gas Price a value representing the fee sender is willing to pay for the computations</li>
+</ul>
+
+<h3>Ethereum Block Structure</h3>
+<ul>
+<li>Header</li>
+<li>Transaction</li>
+<li>Runner-up Headers</li>
+</ul>
