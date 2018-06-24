@@ -37,4 +37,4 @@
 <li>The Recipient of the message</li>
 <li>Digital Signature of sender authorizing transfer</li>
 <li>Amount of WEI</l1>
-<li>Messag to cotract</li>
+<li>Messag to a cotract</li>
