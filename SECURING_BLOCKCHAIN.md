@@ -1,6 +1,6 @@
 # Securing Blockchain
 
-## Two techniques are predominantly used for securing the chain for efficient validation and verafication:
+## Two techniques are predominantly used for securing the chain for efficient validation and verification:
 
 <h2>
   <ul>
