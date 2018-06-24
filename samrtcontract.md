@@ -31,3 +31,10 @@
 
 <h3>1 eth = 10^18 WEI (10 power of 18)</h3>
 <h3>1 WEI = 0.000000000000000001 WEI</h3>
+
+<h4>Transaction in Ethereum includes the recipient of the message: </h4>
+<ul>
+<li>The Recipient of the message</li>
+<li>Digital Signature of sender authorizing transfer</li>
+<li>Amount of WEI</l1>
+<li>Messag to cotract</li>
