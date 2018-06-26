@@ -47,6 +47,31 @@ Cesar Encryption is the simplest one with alphabets of a message are shifted by 
 
 <h4>Input data can be: Documentation or any length, Data Structure of any size, Block Data</h4>
 
-<h4>Two Basic requirments of a hash function: Algorithm should be one way function and Collision Free</h4>
+<h4>Two Basic requirements of a hash function: Algorithm should be one way function and Collision Free</h4>
 
 <h5>Most common hash size is 256-bits and most common hash function are SHA-3, SHA-256 & Keccak-256</h5>
+
+<h3>Two different approaches for hashing: </h3>
+<h3>
+<ul>
+<li>Simple Hash (Used: fixed number of items to be hashed & Verifying composite block </li>
+<li>Merkel tree hash (Used: transaction hash, state hash, receipt hash) </li>
+</ul>
+</h3>
+
+<h3>Tree structure helps the efficiency of repeated operators, such as transaction modification and the state changes from one block the the next</h3>
+
+<h2>In Ethereum Hashing is used to generate:</h2>
+
+<h3>
+     <ul>
+     <li>Account Address</li>
+     <li>Digital Signatures</li>
+     <li>Transaction Hash</li>
+     <li>State Hash</li>
+     <li>Receipt Hash</li>
+     <li>Block Hash</li>
+     </ul>
+</h3>
+
+<h3>SHA-3, SHA-256, Keccak-256 are some of the algorithms used by hash generation in blockchain.</h3>
