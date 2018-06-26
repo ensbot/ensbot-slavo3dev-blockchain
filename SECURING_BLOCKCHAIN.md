@@ -84,3 +84,15 @@ Cesar Encryption is the simplest one with alphabets of a message are shifted by 
      <li>Verification of the content, of the transaction is not modified</li>
    </ul>
 </h3>
+
+<h2>Address of accounts are generated using public key, privet key pair</h2>
+
+<h4>STEP 1: 256-bit random number privet key</h4>
+<h4>STEP 2: Elliptic curve cryptography algorithm applied to privet key to generate the public key</h4>
+<h4>STEP 3: Hashing applied to public-key account address (20 bytes)</h4>
+
+<h3>Transaction of transferring assets should be: Authorized, Non repudiable, Unmodifiable  </h3>
+
+<h4>Complete transaction verification: Time Stamp, Nonce, Account Balances, Sufficiency of Fees</h4>
+
+<h3>Digital signing of transaction/document involves, hashing the content of document and then encrypting it with private key</h3>
