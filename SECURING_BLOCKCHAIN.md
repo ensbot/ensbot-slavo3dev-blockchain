@@ -40,3 +40,13 @@ Cesar Encryption is the simplest one with alphabets of a message are shifted by 
 <h2>ECC family of algorithms is used in a bitcoin as well as an Ethereum blockchain for generating the key pair</h2>
 <h3>ECC is stronger then RSA for a given number of bits. <br>
 256 bits ECC key pair = 3072 bits RSA key pair</h3>
+
+<h3>Hashing</h3>
+
+<h4>Hash function or hashing transform and maps an arbitrary length of input data value to unique fixed value</h4>
+
+<h4>Input data can be: Documentation or any length, Data Structure of any size, Block Data</h4>
+
+<h4>Two Basic requirments of a hash function: Algorithm should be one way function and Collision Free</h4>
+
+<h5>Most common hash size is 256-bits and most common hash function are SHA-3, SHA-256 & Keccak-256</h5>
