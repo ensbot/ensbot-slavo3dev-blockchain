@@ -75,3 +75,12 @@ Cesar Encryption is the simplest one with alphabets of a message are shifted by 
 </h3>
 
 <h3>SHA-3, SHA-256, Keccak-256 are some of the algorithms used by hash generation in blockchain.</h3>
+
+<h3>To manage the integrity of transaction: </h3>
+<h3>
+   <ul>
+     <li>Secure & Unique Account Address</li>
+     <li>Authorization of transaction by the sender trough digital signing</li>
+     <li>Verification of the content, of the transaction is not modified</li>
+   </ul>
+</h3>
