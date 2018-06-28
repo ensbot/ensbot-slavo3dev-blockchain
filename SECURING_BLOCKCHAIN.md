@@ -119,3 +119,12 @@ h4>
 <li>Formation of the 'chain line' by embedding the previous block hash in the current block header</li>
 </ul>
 </h4>
+
+<h4>Combination of hashing & encryption are used for securing the various elements of the blockchain<h4>
+<h5>Privet public key pair and hashing are important foundational concepts in decentralized networks that operate beyond trust boundaries </h5>
+
+<h4> In Ethereum, the block hash is the hash of all elements in the block header</h4>
+
+<h4>Block hash allows fot the formation of the chain link by embedding previous block hash in the correct block header</h4>
+
+<h4>The Transaction Merkle Tree root value in Bitcoin block is calculating using hash transaction</h4>
