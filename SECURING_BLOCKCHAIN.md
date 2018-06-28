@@ -109,3 +109,13 @@ Cesar Encryption is the simplest one with alphabets of a message are shifted by 
 <li>State Transaction are computed, hashed and verified</li>
 </ul>
 </h4>
+
+<h4> Every state change requires state root (hash) re-computation</h4>
+
+<h2>Purpose of the block hash: <h2>
+h4>
+<ul>
+<li>Verification of the integrity of the block and the transactions</li>
+<li>Formation of the 'chain line' by embedding the previous block hash in the current block header</li>
+</ul>
+</h4>
