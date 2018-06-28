@@ -96,3 +96,16 @@ Cesar Encryption is the simplest one with alphabets of a message are shifted by 
 <h4>Complete transaction verification: Time Stamp, Nonce, Account Balances, Sufficiency of Fees</h4>
 
 <h3>Digital signing of transaction/document involves, hashing the content of document and then encrypting it with private key</h3>
+
+<hr>
+
+<h4>Main component of Ehtereum block: Block Header, Transaction Hash, Transaction Root, State Hash, State Root</h4>
+
+<h4>Integrity of a block:</h4>
+<h4>
+<ul>
+<li>Block Header contents not tempered with</li>
+<li>Transaction not tempered with</li>
+<li>State Transaction are computed, hashed and verified</li>
+</ul>
+</h4>
