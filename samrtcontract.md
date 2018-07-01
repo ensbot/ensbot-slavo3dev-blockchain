@@ -100,3 +100,5 @@
 
 <h3>Trust Trail</h3>
 <h4>Valid Transactions -> Verify Gas Resources -> Select set of Transactions to Create a Block -> Execute Transaction to Get New State -> From a New Block -> Work Toward Consensus -> New Block added to a chain conformation</h4>
+
+<h3>Ethereum Transaction: Syntax, Transaction Signature, Time Stamp, Nonce, Gas Limit, Sender Account Balance, Fuel/Gas points & Other Resources, Transaction Signature & Hash</h3>
