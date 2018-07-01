@@ -87,3 +87,16 @@
 <li>Transaction Validation</li>
 <li>Transaction Bundled and Broadcasted</li>
 <li>Block added to a local chain and propagated to the network</li></ul>
+
+## Trust Essentials Decentralized System
+
+<h3>Establishing Trust in a Blockchain: </h3>
+<ul>
+<li>Secure Chain Using Protocols</li>
+<li>Validate Transactions & blocks</li>
+<li>Verify availability of resources </li>
+<li>Executing & Conforming Transactions</li>
+</ul>
+
+<h3>Trust Trail</h3>
+<h4>Valid Transactions -> Verify Gas Resources -> Select set of Transactions to Create a Block -> Execute Transaction to Get New State -> From a New Block -> Work Toward Consensus -> New Block added to a chain conformation</h4>
