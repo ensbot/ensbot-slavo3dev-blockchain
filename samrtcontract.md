@@ -4,7 +4,7 @@
 
 ### The code for smart contract is written in a high level programming language called Solidity, and it's translated into EVM byte code and then deployed to on Ethereum Virtual Machine
 
-### Execution of a smart contract is initiated by message enbedded in the transaction
+### Execution of a smart contract is initiated by message embedded in the transaction
 
 ### Ethereum Virtual Machine (EVM) provides a run anywhere obstruction layer the contract code.
 
@@ -19,11 +19,11 @@
 <h3>Account Types</h3>
 <ul>
 <li>Externally Owned Accounts (EOA) Controlled by the private key</li>
-<li>Contract Accouns (CA) Controlled by the code and can be activated only by EOA</li>
+<li>Contract Accounts (CA) Controlled by the code and can be activated only by EOA</li>
 </ul>
 
 <h3> An EOA is needed ti participate in the Ethereum network. It interacts with blockchain using transactions. </h3>
-<h3> A CO represents the samrt contracts.</h3>
+<h3> A CO represents the smart contracts.</h3>
 
 <h3>An account must have sufficient balance to meet fees needed for the transactions activated! </h3>
 <h3>Fees are paid in WEI!</h3>
@@ -37,7 +37,7 @@
 <li>The Recipient of the message</li>
 <li>Digital Signature of sender authorizing transfer</li>
 <li>Amount of WEI</l1>
-<li>Messag to a cotract</li>
+<li>Message to a contract</li>
 <li>StartGas (max # steps) which is a name representing the maximum number of computation steps the transaction allowed</li>
 <li>Gas Price a value representing the fee sender is willing to pay for the computations</li>
 </ul>
@@ -49,7 +49,7 @@
 <li>Runner-up Headers</li>
 </ul>
 
-<h4>The Account (address) can send transactions for ether transfer or it can send transactions to invoke a samrt cotrac code</h4>
+<h4>The Account (address) can send transactions for ether transfer or it can send transactions to invoke a smart contract code</h4>
 
 <h2>Ethereum Operations</h2>
 <h4>For a simple ether transfer the amount to transfer and the target address are specified along with the fees or gas points</h4>
@@ -74,12 +74,12 @@
 <h3><b>GAS SPENT</b> - Actual amount of gas spent to completion of a block creation</h3>
 
 <h3>Mining Incentive Model</h3>
-<p>The proof of work puzzle winner (miner) that creats a new block is incentivized with the base fees of tree Ethers and the transaction fees in Ehtereum blockchain</p>
+<p>The proof of work puzzle winner (miner) that creates a new block is incentivized with the base fees of tree Ethers and the transaction fees in Ehtereum blockchain</p>
 <p>The Winner Miner also gets the fees fees gas points for execution of a smart contract transactions</p>
 
 <p>The miners that solve the puzzle but they didn't win the block are called Ommers</p>
 <p>Ommer blocks are created by ommers</p>
-<p>These are added as Ommer Blocks or side blocks to the main chain. Ommer miners also get a small precentage ot the total gas points as a consolation and for network securuty</p>
+<p>These are added as Ommer Blocks or side blocks to the main chain. Ommer miners also get a small % ot the total gas points as a consolation and for network security</p>
 
 <h3>Eth Block Creation</h3>
 <ul>
@@ -158,19 +158,19 @@ New Block Added to chain conformation</h4>
 
 ## Time Stamp on the nonce in the transaction should be unique and verified to prevent any double use in digital asset
 
-## Small incetive are given to the runner-up blocks and the new block is added to the main chain
+## Small incentive are given to the runner-up blocks and the new block is added to the main chain
 
-## In Ethereum a combination of account number and global nonce is used to address isue regarding double spending
+## In Ethereum a combination of account number and global nonce is used to address issue regarding double spending
 
 # Hard & Soft Fork are most common phrases uttered in the context of a blockchain
 
-## 2018 is a year of hard forks in Ethereum Blockchian
+## 2018 is a year of hard forks in Ethereum blockchain
 
-## Forks are normal processes in an evolutinary path of the nansent technology enabling a blockchain
+## Forks are normal processes in an evolutionary path of the nascent technology enabling a blockchain
 
-## A Minor process adjusment has to be carried out typically by bootstraping a new software to the already running process. - Soft Fork
+## A Minor process adjustment has to be carried out typically by bootstrapping a new software to the already running process. - Soft Fork
 
-#### You can think about soft forks as a software patch or a bug to fix to adress issue.
+#### You can think about soft forks as a software patch or a bug to fix to address issue.
 
 # Hard Fork implies a major change in the Protocol
 
