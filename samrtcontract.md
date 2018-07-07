@@ -154,21 +154,22 @@ New Block Added to chain conformation</h4>
 
 ## In Ethereum a combination of a call number and a global nonce is used to address the double spending
 
-## Every time a transaction is initiated by an account, a global nonce is included in the transaction. After that the nonce is incremented 
+## Every time a transaction is initiated by an account, a global nonce is included in the transaction. After that the nonce is incremented
 
 ## Time Stamp on the nonce in the transaction should be unique and verified to prevent any double use in digital asset
 
 ## Small incetive are given to the runner-up blocks and the new block is added to the main chain
 
-## In Ethereum a combination of account number and global nonce is used to address isue regarding double spending 
+## In Ethereum a combination of account number and global nonce is used to address isue regarding double spending
 
 # Hard & Soft Fork are most common phrases uttered in the context of a blockchain
 
 ## 2018 is a year of hard forks in Ethereum Blockchian
 
-## Forks are normal processes in an evolutinary path of the nansent technology enabling a blockchain 
+## Forks are normal processes in an evolutinary path of the nansent technology enabling a blockchain
 
 ## A Minor process adjusment has to be carried out typically by bootstraping a new software to the already running process. - Soft Fork
+
 #### You can think about soft forks as a software patch or a bug to fix to adress issue.
 
 # Hard Fork implies a major change in the Protocol
@@ -179,4 +180,12 @@ New Block Added to chain conformation</h4>
 
 <h5>A hard fork is a change of the protocol that is not backwards compatible with older varsion of the client</h5>
 
-
+<h5>Hard Fork happened  on October 17, 2017 -> Byzantium Fork</h5>
+<h4>Ethereum Hard Fork was planned fork, ethereum improvement protocol (EIP) for this fork:</h4>
+<h4>
+<ul>
+<li>Parallel processing transaction</li>
+<li>Proof Of Work Consensus still says expect that every 100 block, Proof Of Stake consensus protocol is applied for evaluating the latter</li>
+<li>Miner incentive was reduce from 5 ethers to 3 ethers for block creation</li>
+</ul>
+</h4>
