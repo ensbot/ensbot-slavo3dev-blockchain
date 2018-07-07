@@ -102,3 +102,20 @@
 <h4>Valid Transactions -> Verify Gas Resources -> Select set of Transactions to Create a Block -> Execute Transaction to Get New State -> From a New Block -> Work Toward Consensus -> New Block added to a chain conformation</h4>
 
 <h3>Ethereum Transaction: Syntax, Transaction Signature, Time Stamp, Nonce, Gas Limit, Sender Account Balance, Fuel/Gas points & Other Resources, Transaction Signature & Hash</h3>
+
+<hr>
+
+## Trust Essential Decentralize System
+
+<h3>Establishing trust in a Blockchain</h3>
+<ul>
+<li>Secure Chain using protocols</li>
+<li>Validate Transaction & Blocks</li>
+<li>Verify Availability of resources</li>
+<li>Executing & Confirming transaction</li>
+</ul>
+
+<h3>Trust Trail: </h3>
+<h4>Valid Transaction -> Verify Gas resources -> Select Set of transaction create a block -> <br>
+Execute Transaction to get a new state -> From a new block -> Work toward consensus -> <br>
+New Block Added to chain conformation</h4>
