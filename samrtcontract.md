@@ -119,3 +119,15 @@
 <h4>Valid Transaction -> Verify Gas resources -> Select Set of transaction create a block -> <br>
 Execute Transaction to get a new state -> From a new block -> Work toward consensus -> <br>
 New Block Added to chain conformation</h4>
+
+<h4>Ethereum Transaction</h4>
+<ul>
+<li>Syntax</li>
+<li>Transaction Signature</li>
+<li>Time Stamp</li>
+<li>Nonce</li>
+<li>Gas Limit</li>
+<li>Sender Account Balance</li>
+<li>Fuel/Gas points & other resources</li>
+<li>Transaction Signature & hash</li>
+</ul>
