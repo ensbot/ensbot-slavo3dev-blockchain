@@ -198,4 +198,10 @@ New Block Added to chain conformation</h4>
 
 ## Bitcoin Blockchain implemented a soft fork to realize a P2SH conditional payment script feature!
 
-##
+## Once the consensus is met a new blockchain is added to the chain.
+
+### Proof Of Work is an agreed upon method by which the creation of a new block is achieved in a Bitcoin Blockchain
+
+### Trust in robustness is the ability to handle natural exceptional situations such as a chain split and double spending
+
+### Forks are mechanisms that reduce the robustness of the blockchain framework
