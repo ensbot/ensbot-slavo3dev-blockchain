@@ -131,3 +131,19 @@ New Block Added to chain conformation</h4>
 <li>Fuel/Gas points & other resources</li>
 <li>Transaction Signature & hash</li>
 </ul>
+
+<h4>Transaction Markle Tree root value in Bitcoin block calculating using hash transaction</h4>
+
+# Consensus Protocol
+
+## A secure chain is a single main chain with consistent state.
+
+## Proof of Work is consensus protocol used by BitCoin BlockChain and Ehtereum
+
+#### Proof Of Work are using hashing!!
+
+# Robustness
+
+<h4>Trust is not only executing regular operation correctly but also about managing exception satisfactory </h4>
+
+## Robustness is the ability to satisfactorily manage exceptional situations.
