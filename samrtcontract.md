@@ -147,3 +147,36 @@ New Block Added to chain conformation</h4>
 <h4>Trust is not only executing regular operation correctly but also about managing exception satisfactory </h4>
 
 ## Robustness is the ability to satisfactorily manage exceptional situations.
+
+### In more the one transaction reference as input the same digital asset. This is called Double Spending!
+
+<h5><strong>A Policy for handling transaction and double spending in Bitcoin is to allow the first transaction that reference the digital asset and reject the rest of the transaction that reference the same digital asset </strong></h5>
+
+## In Ethereum a combination of a call number and a global nonce is used to address the double spending
+
+## Every time a transaction is initiated by an account, a global nonce is included in the transaction. After that the nonce is incremented 
+
+## Time Stamp on the nonce in the transaction should be unique and verified to prevent any double use in digital asset
+
+## Small incetive are given to the runner-up blocks and the new block is added to the main chain
+
+## In Ethereum a combination of account number and global nonce is used to address isue regarding double spending 
+
+# Hard & Soft Fork are most common phrases uttered in the context of a blockchain
+
+## 2018 is a year of hard forks in Ethereum Blockchian
+
+## Forks are normal processes in an evolutinary path of the nansent technology enabling a blockchain 
+
+## A Minor process adjusment has to be carried out typically by bootstraping a new software to the already running process. - Soft Fork
+#### You can think about soft forks as a software patch or a bug to fix to adress issue.
+
+# Hard Fork implies a major change in the Protocol
+
+### After a Hard Fork, the emerging two chains are icompatible. "There was an unplanned hard in Ethereum protocol"
+
+### Ethereum Core & Ethereum Classic split that was enacted to address a critical software issue in a decentralized autonomous application (DAO) that resulted in a 150M dollara heist
+
+<h5>A hard fork is a change of the protocol that is not backwards compatible with older varsion of the client</h5>
+
+
