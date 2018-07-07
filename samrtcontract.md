@@ -189,3 +189,13 @@ New Block Added to chain conformation</h4>
 <li>Miner incentive was reduce from 5 ethers to 3 ethers for block creation</li>
 </ul>
 </h4>
+
+## Soft and Hard Forks in the blockchain world are like the realise of software patches and new version of operating systems respectively
+
+## Forks are mechanisms that added to the robustness if the blockchain framework
+
+## Well manage forks help to build credibility in the blockchain by providing approaches to manage unexpected faults and planned improvements
+
+## Bitcoin Blockchain implemented a soft fork to realize a P2SH conditional payment script feature!
+
+##
