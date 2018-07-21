@@ -1,13 +1,17 @@
 pragma solidity ^0.4.19;
 
-uint sotredData;
+uint storedData;
 function set(uint x) public {
-    sotredData = x;
+    storedData = x;
 }
 
 function get() constant public returns (uint){
-    return sotredData;
+    return storedData;
 }
 function increment (uint n) public {
-    sotredData = sotredData + n;
+    storedData = storedData + n;
+}
+
+function decrement (uint n) public {
+    storedData = storedData - n;
 }
