@@ -1,17 +1,14 @@
 pragma solidity ^0.4.19;
 
-uint storedData;
-function set(uint x) public {
-    storedData = x;
-}
+contract simpleStorage {
+    
+    uint sotredData;
+    
+    function set(uint x) public {sotredData = x;}
 
-function get() constant public returns (uint){
-    return storedData;
-}
-function increment (uint n) public {
-    storedData = storedData + n;
-}
+    function get() constant public returns (uint){return sotredData;}
+   
+    function increment (uint n) public { sotredData = sotredData + n;}
 
-function decrement (uint n) public {
-    storedData = storedData - n;
+    function decrement(uint n)public{sotredData = sotredData - n;}
 }
