@@ -54,10 +54,7 @@ contract Ballot {
        if(stage != Stage.Done) {return;}
         uint256 winningVoteCount = 0;
         for (uint8 prop = 0; prop < proposals.length; prop++)
-            if (proposals[prop].voteCount > winningVoteCount) {
-                winningVoteCount = proposals[prop].voteCount;
-                _winningProposal = prop;
-            }
+            if (proposals[prop].voteCount > winningVoteCount) {winningVoteCount = proposals[prop].voteCount;_winningProposal = prop;}
        
     }
 }
