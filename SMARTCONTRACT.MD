@@ -51,3 +51,10 @@
 #### Smart Contract can store variables in it called state variables. We could retrieve how these variables change over the blocks
 
 #### Contract in Ethereum Blockchain
+
+<ul>
+<li>Pragma Directive</li>
+<li>Name of the smart contract<li>
+<li>Data or the state variables, that state of the contract</li>
+<li>Collection of functions to carry out the intent of a smart contract</li>
+</ul>
