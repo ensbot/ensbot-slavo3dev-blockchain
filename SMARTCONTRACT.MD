@@ -94,3 +94,37 @@
 ### A unique target account is reserved for a smart contract creation and deployment.
 
 ### Target account 0(zero) If a target's address is zero or null it is meant for creating a new smart contract using payload feed.
+
+#### The payload of transaction contains the ByteCode for the smart contract. This code is executed as a part of the transaction execution to instantiate the ByteCode for the actual smart contract
+
+## Solidity
+
+### Solidity is a high level language for implementing a smart contract. Solidity is a combination of: JavaScript, Java, C++. It's especially designed to write a smart contract and to target the Ethereum Virtual Machine.
+
+##### Remix supports tree test environments: 1.JavaScript VM 2.Injected web3(e.g. metamask) 3.web3 provider (ehtereum node)
+
+<h3>Structure of Ehtereum</h3>
+<ul>
+<li>Data / Set Variables</li>
+<li>List of Functions:
+<ol>
+<li>Constructor</li>
+<li>Fallback</li>
+<li>View</li>
+<li>Pure</li>
+<li>Public</li>
+<li>Privet</li>
+<li>Internal</li>
+<li>External</li>
+</ol>
+</li>
+<li>User defined types in structure and enums</li>
+<li>Modifiers</li>
+<li>Events</li>
+</ul>
+
+#### Function header { function code }
+
+#### Function header - as simple as an anonymous non name function to a complex function header loaded with a lot of details
+
+#### Function code - Contains the local data and statements to process the data and returns the results of the processing.
