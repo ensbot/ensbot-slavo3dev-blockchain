@@ -118,7 +118,7 @@
 <li>External</li>
 </ul>
 </li>
-<li>User defined types in structure and enums</li>
+<li>User defined types in struct and enums</li>
 <li>Modifiers</li>
 <li>Events</li>
 </ul>
