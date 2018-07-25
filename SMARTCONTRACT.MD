@@ -58,3 +58,39 @@
 <li>Data or the state variables, that state of the contract</li>
 <li>Collection of functions to carry out the intent of a smart contract</li>
 </ul>
+
+#### According to metropolis version, once a smart contract is deployed its become immutable
+
+#### Smart Contract can be create on behalf of an externally owned account, by application programmatically from the command-line interface and by a script of commands from high level applications and user interface of UI
+
+#### It can also be created from inside a smart contract
+
+#### We need an address for a smart contract to deploy it and invoke it's a function.
+
+#### The address is computed by hashing the account number of externally owned account UI and nonce
+
+<h1>Smart Contract / Remix Compile Process</h1>
+<h2>
+<ul>
+<li>ABI - Application Binary Interface - the interface schema for transaction to invoke functions on the smart contract instance bytecode</li>
+<li>Contract Bytecode - is the bytecode that is executed for instantiating a smart contract on EVM </li>
+<li>Web Deployed Script -
+<ul>
+<li>JSON script to web application to invoke smart contract function</li>
+<li>Script for programmatically deploying a smart contract from web application</li>
+</ul></li>
+<li>Gas Estimates - Provides a Gas Estimates for deploying a smart contract and for the function invocation</li>
+<li>Function Hashes - First Four byte of the function signatures to facilitate function invocation by a transaction</li>
+<li>Instance ByteCode - The ByteCode of the smart contract instance</li>
+</ul>
+</h2>
+
+#### Remix Solidity compiler generate several artifacts! Important once: name of the contract, ByteCode, ABI...
+
+### ABI is also generated for high level language application.
+
+###### Example: Web apps to interact with the binary smart contract!!
+
+### A unique target account is reserved for a smart contract creation and deployment.
+
+### Target account 0(zero) If a target's address is zero or null it is meant for creating a new smart contract using payload feed.
