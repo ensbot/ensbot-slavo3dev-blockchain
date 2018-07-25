@@ -128,3 +128,33 @@
 #### Function header - as simple as an anonymous non name function to a complex function header loaded with a lot of details
 
 #### Function code - Contains the local data and statements to process the data and returns the results of the processing.
+
+## Basic Data Types:
+
+## uint - unsigned int of 256 bits
+
+## int - integer positive and negative value accepted 256 bits
+
+## string - string of characters
+
+## Privet is the default visibility modifier for an identifier in a smart contract
+
+## Address is a special Solidity define composite data type. It can hold 20-bit Ethereum address
+
+## Re-call address is reference address to access a smart contract
+
+### <address>.balance(uint 256)
+
+##### balance of address in WEI
+
+### <address>.transfer(uint 256)
+
+##### transfer given amount of WEI to address
+
+#### Mapping is a very versatile data structure that is similar to a key value store, it also can be thought of as a hash table
+
+#### Message is a complex data type specific to a smart contract. It represents a call that can be used to invoke a function of a smart contract.
+
+###### address adr = msg.sender
+
+###### uint amt = msg.value
