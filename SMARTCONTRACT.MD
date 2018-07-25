@@ -107,7 +107,7 @@
 <ul>
 <li>Data / Set Variables</li>
 <li>List of Functions:
-<ol>
+<ul>
 <li>Constructor</li>
 <li>Fallback</li>
 <li>View</li>
@@ -116,7 +116,7 @@
 <li>Privet</li>
 <li>Internal</li>
 <li>External</li>
-</ol>
+</ul>
 </li>
 <li>User defined types in structure and enums</li>
 <li>Modifiers</li>
