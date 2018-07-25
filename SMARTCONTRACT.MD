@@ -43,3 +43,11 @@
 #### Customer can directly access the tools without an intermediary like a bank. It's like a ATM for mortgage initiation. You are holding the assets.
 
 #### Currency transfer: 1. Service 2. Product 3.Utility
+
+#### Smart Contract work with the application-specific semantics and constrains of the translation and verify, validates and execute them.
+
+#### Since is deployed on the blockchain, the smart-contract leverages the immutable recording and trust model of the blockchain. Since the smart contract is deployed on the blockchain, it is a immutable piece of code and once deployed, it cant be changed.
+
+#### Smart Contract can store variables in it called state variables. We could retrieve how these variables change over the blocks
+
+#### Contract in Ethereum Blockchain
