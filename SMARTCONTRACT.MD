@@ -157,4 +157,22 @@
 
 ###### address adr = msg.sender
 
-###### uint amt = msg.value
+###### uint amt = msg.
+
+## A Constant function is included to enable the client applications to call to obtain the result
+
+## A Constant modifier of the function prevents it from changing any state of the smart contract.
+
+## This call comes directly to smart contract and not via a transaction so it's not recorded on the blockchain.
+
+## Struct is a composite data type if a group of related data that can be referenced by a single, meaningful, collective name
+
+# Struct is a composite data type of a group of releted data that can be referenced by a single, meanungful, collective name. Individual elements of the struct can be accessed using dot notation. 
+
+## In a blockchain application all the participants and nodes have to synchronize to one universal time. For this purpose blockchain proposal include a time server that serves the UNIX EPOCH time or time since January 1st, 1970 in seconds.
+
+
+
+
+
+
