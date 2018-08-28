@@ -198,6 +198,28 @@
 
 # IMPORTANT feature in Solidity: MODIFIERS!!
 
+## A Modifiers typically checks a condition using 'require'
+## And if condition faild, the transaction that called the function can be returned and using the revert function. This will completely reject the transaction and revert all it's state chages.
 
+## A Modifiers and Required clauses using the Ballot Smart Contract
 
+## 'Key Word NOW' in a Solidity constract stands for time in which block is added to the chain (block.timestamp)
 
+#### revert() - resilts in state-reverting exception!! 
+
+### The application can listen to the events pushed, using a listener code, to: Track Transaction / Recieve Results / Initiate pull-request to recieve information from a smart contract
+
+## We all have control of our information, we all have had control of agreeing on set of rules between us, business rules -> we are solving social problem
+
+## Blockchain Presents as an evoluation of the Internet is the notation of immutable shared rules.
+
+### The main use of events is to indicate to a listening application that an operation has been completed.
+
+## Block chain is most suitable for:
+
+<ul>
+<li>Decentralized Problems</li>
+<li>Peer-to-Peer Transaction</li>
+<li>Beyond boundaries of trust among unknown peers</li>
+<li>Require validation, verafication a recording of timestamped, immutable ledger</li>
+<li>Autonomus Operations guided by rules and policies</li></ul>
