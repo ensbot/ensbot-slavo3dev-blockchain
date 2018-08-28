@@ -171,7 +171,20 @@
 
 ## In a blockchain application all the participants and nodes have to synchronize to one universal time. For this purpose blockchain proposal include a time server that serves the UNIX EPOCH time or time since January 1st, 1970 in seconds.
 
+## Unix Epoch Time:
+<ul>
+<li>Used in time stamping the block time, when a block is added to the blockchain</li>
+<li>All The Transaction Confirmed by a block aslo have the block time as their confirmation time</li>
+<li>A Variable called "now" defined by Solidity returns the block time stamp. This variable is often used for evaluating time-related condtitions</li>
+</ul>
 
+## 'now' varibale in a function is not a time at which function transaction was initiated, but it is the thime when it was confirmend.
+
+## Time is definied as unit time / seconds / minutes / hours / weeks / years
+
+## Little numbers can be used in specifying time related computations.
+
+## Enum or Enumerator data type, allows user to defined data types with limited set of meaningful values. It is mostly used for internal use and are not supported currency at the ABI level of Solidity.
 
 
 
