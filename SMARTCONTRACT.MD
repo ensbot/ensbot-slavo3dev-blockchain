@@ -184,7 +184,19 @@
 
 ## Little numbers can be used in specifying time related computations.
 
-## Enum or Enumerator data type, allows user to defined data types with limited set of meaningful values. It is mostly used for internal use and are not supported currency at the ABI level of Solidity.
+## Enum or Enumerator data type, allows user to defined data types with limited set of meaningful values. It is mostly used for internal use and are not supported currency at the ABI level of Solidity.It serves important purpose of defining states or phase of a smart contract.
+
+## We defined the enumerated type stage
+
+### Vote Example
+### Start Time (int) -> +1 min (reg) -> +1 min (vote) -> DONE
+### We transition between the stages base on elapsed time! 
+
+## Enum is acostume data type that hold finite set of value
+
+### It's a good practice to validate input values to the function to avoid unnecessary execution and wast of gas
+
+# IMPORTANT feature in Solidity: MODIFIERS!!
 
 
 
