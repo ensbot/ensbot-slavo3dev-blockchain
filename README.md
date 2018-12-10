@@ -6,4 +6,6 @@
 
 # Digital Ladger
 
-### A distributed ledger (also called a shared ledger, or distributed ledger technology, DLT) is a consensus of replicated,shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. There is no central administrator or centralized data storage.
+### A distributed ledger (also called a shared ledger, or distributed ledger technology, DLT) is a consensus of replicated,shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions. There is no central administrator or centralized data storage 
+
+# SMART CONTRACTS
